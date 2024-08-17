@@ -31,7 +31,6 @@ print(img[257][400])
 
 
 
-
 # [
 # # regulary its gonna be rd green blue but in open CV its gonn be blue green red.
 # [[0, 0, 0], [255, 255, 255]], 
