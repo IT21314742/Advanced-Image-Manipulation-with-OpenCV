@@ -4,7 +4,7 @@ img = cv2.imread('assets/1.jpg', -1)
 
 print(img[257][400])
 
-for i in range
+for i in range(100)
 
 
 
