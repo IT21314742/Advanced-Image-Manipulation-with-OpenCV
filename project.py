@@ -10,6 +10,7 @@ for i in range(100):
         img[i][j] = [random.randint(255), random.randint(255), random.randint(255)]
 
 cv2.imshow('Image', img)
+cv2.waitKey(0)
 
 
 
