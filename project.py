@@ -1,3 +1,3 @@
 import cv2
 
-img = 
+img = cv2
