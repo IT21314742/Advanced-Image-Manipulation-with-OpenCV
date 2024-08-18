@@ -10,4 +10,5 @@ This project demonstrates advanced image manipulation using Python and OpenCV. I
 ## How to Use
 1. Clone the repository.
 2. Run the Python script to perform various image manipulation tasks.
+3. 
    
