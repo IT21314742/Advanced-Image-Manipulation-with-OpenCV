@@ -11,4 +11,6 @@ This project demonstrates advanced image manipulation using Python and OpenCV. I
 1. Clone the repository.
 2. Run the Python script to perform various image manipulation tasks.
 3. Customize the script to apply different operations such as reading, rotating, resizing, and writing images based on your needs.
+
+   _I welcome contributions to this OpenCV Image Manipulation project. Feel free to fork the repository, enhance the code, or add new features, such as additional image processing techniques._ 😊❤
    
