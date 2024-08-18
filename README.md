@@ -8,6 +8,6 @@ This project demonstrates advanced image manipulation using Python and OpenCV. I
 - **Image Pasting:** Paste sliced portions to new locations within the same image.
 
 ## How to Use
-1. Clone the repository
-2. 
+1. Clone the repository.
+2. Run the Python script to perform various image manipulation tasks.
    
